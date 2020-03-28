@@ -4,7 +4,7 @@ Use this trick when LMS is showing **Out of Memory**. Just click the saved bookm
 
 - To stop just refresh the page if program gets executed and there is problem in your code and you want to stop the execution.
 
-**Steps**
+## Steps
 
 **1.** Open chrome and click on the three dots on the top right corner.
   Goto Bookmarks->Bookmark Manager.
