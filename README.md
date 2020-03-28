@@ -16,7 +16,7 @@ Use this trick when LMS is showing **Out of Memory**. Just click the saved bookm
    
 ![](/img/2.png)
 
-**3.** Now give a name and paste the code from the js file provided and save that.
+**3.** Now give a name and paste the code from the .js file provided above and save that.
 
 ![](/img/3.png)
 
