@@ -2,8 +2,6 @@
 
 Use this trick when LMS is showing **Out of Memory**. Just click the saved bookmark and it will keep on executing the program till marks become 100/100.
 
-- To stop just refresh the page if program gets executed and there is problem in your code and you want to stop the execution.
-
 ## Steps
 
 **1.** Open chrome and click on the three dots on the top right corner.
