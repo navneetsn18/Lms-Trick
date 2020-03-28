@@ -12,9 +12,11 @@ Use this trick when LMS is showing **Out of Memory**. Just click the saved bookm
 
 **2.** Click on the three dots on the top right corner.
    And click on add new bookmark.
+   
 ![](/img/2.png)
 
 **3.** Now give a name and paste the code from the js file provided and save that.
+
 ![](/img/3.png)
 
 **4.** Now just press the bookmark when you want to execute the program on the LMS.
